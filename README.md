@@ -149,30 +149,71 @@ ollama run llama3
 
 ---
 
-# Screenshots
+# Application Screenshots
+
+---
 
 ## Login Page
-(Add Screenshot Here)
+
+Modern authentication UI with JWT-based secure login.
+
+![Login Page](screenshots/login.png)
+
+---
+
+## Register Page
+
+New users can create accounts securely.
+
+![Register Page](screenshots/register.png)
 
 ---
 
 ## Dashboard
-(Add Screenshot Here)
+
+Central dashboard with analytics and navigation modules.
+
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
-## AI Interview System
-(Add Screenshot Here)
+## AI Mock Interview
+
+Generate AI-powered interview questions with company-specific preparation.
+
+![AI Interview](screenshots/interview.png)
 
 ---
 
 ## Resume Analyzer
-(Add Screenshot Here)
+
+Upload resumes and receive ATS analysis with AI feedback.
+
+![Resume Analyzer](screenshots/resume.png)
+
+---
+
+## Interview History
+
+Track previous interviews, answers, and AI evaluations.
+
+![History](screenshots/history.png)
 
 ---
 
 ## Coding Interview Platform
-(Add Screenshot Here)
+
+Real-time coding environment with Monaco Editor and AI review.
+
+![Coding Interview](screenshots/coding.png)
+
+---
+
+## AI Chat Assistant
+
+AI assistant for coding help, DSA guidance, and interview preparation.
+
+![AI Assistant](screenshots/assistant.png)
 
 ---
 
